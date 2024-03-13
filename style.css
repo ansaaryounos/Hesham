@@ -1,0 +1,23 @@
+.main-container {
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    margin: 15px;
+}
+
+#gut-response {
+    display: none;
+}
+
+.question-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
